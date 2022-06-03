@@ -29,7 +29,7 @@ Tema: Cap 5 y 6 del libro Principios de circuitos Electricos Thomas L. Floyd Oct
 ◆ Determinar potencia en un circuito en serie y Paralelo
 
 
-#MARCO TEÓRICO (RESUMEN)
+# MARCO TEÓRICO (RESUMEN)
 
 # CAPITULO 1
 
@@ -42,3 +42,27 @@ Tema: Cap 5 y 6 del libro Principios de circuitos Electricos Thomas L. Floyd Oct
 ![](https://github.com/arielguano/Informe-Tarea-3/blob/main/Mapara%20unidad%205-6-3.png)
 
 ![](https://github.com/arielguano/Informe-Tarea-3/blob/main/Mapara%20unidad%205-6-4.png)
+
+# 3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMA
+
+![](https://github.com/arielguano/Informe-Tarea-3/blob/main/BORRADOR%20%20CAP%205-01.png)
+
+![](https://github.com/arielguano/Informe-Tarea-3/blob/main/BORRADOR%20%20CAP%205-02.png)
+
+![](https://github.com/arielguano/Informe-Tarea-3/blob/main/BORRADOR%20%20CAP%205-03.png)
+
+![](https://github.com/arielguano/Informe-Tarea-3/blob/main/BORRADOR%20%20CAP%205-04.png)
+
+![](https://github.com/arielguano/Informe-Tarea-3/blob/main/BORRADOR%20%20CAP%205-05.png)
+
+![](https://github.com/arielguano/Informe-Tarea-3/blob/main/BORRADOR%20%20CAP%205-06.png)
+
+![](https://github.com/arielguano/Informe-Tarea-3/blob/main/BORRADOR%20%20CAP%205-07.png)
+
+![](https://github.com/arielguano/Informe-Tarea-3/blob/main/BORRADOR%20%20CAP%205-08.png)
+
+![](https://github.com/arielguano/Informe-Tarea-3/blob/main/BORRADOR%20%20CAP%205-09.png)
+
+![](https://github.com/arielguano/Informe-Tarea-3/blob/main/BORRADOR%20%20CAP%205-10.png)
+
+
