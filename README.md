@@ -14,13 +14,11 @@ Docente: Ing. Darwin Alulema
 
 Tema: Cap 5 y 6 del libro Principios de circuitos Electricos Thomas L. Floyd Octava edición
 
-#1.OBJETIVOS
+# 1.OBJETIVOS
 
-◆ Identificar un circuito resistivo en serie
+◆ Determinar la corriente y la resistencia   de un circuito en serie y paralelo.
 
-◆ Determinar la corriente y la resistencia  través de un circuito en serie y paralelo
-
-◆ Aplicar la ley de Ohm a circuitos en serie y paralelo
+◆ Aplicar la ley de Ohm correctamente a  circuitos en serie y paralelo.
 
 ◆ Aplicar la ley del voltaje de Kirchhoff en serie y paralelo
 
@@ -29,7 +27,7 @@ Tema: Cap 5 y 6 del libro Principios de circuitos Electricos Thomas L. Floyd Oct
 ◆ Determinar potencia en un circuito en serie y Paralelo
 
 
-# MARCO TEÓRICO (RESUMEN)
+# 2.MARCO TEÓRICO (RESUMEN)
 
 # CAPITULO 1
 
@@ -66,3 +64,18 @@ Tema: Cap 5 y 6 del libro Principios de circuitos Electricos Thomas L. Floyd Oct
 ![](https://github.com/arielguano/Informe-Tarea-3/blob/main/BORRADOR%20%20CAP%205-10.png)
 
 
+# 4.VIDEO
+
+# 5.CONCLUSIONES
+Con lo aprendido en esta unidad se determino que:
+
+En un circuito en serie  la corriete se matiene y el voltaje se divide.
+
+En un circuito en paralelo la corriente se divide y el voltaje se mantiene constante.
+
+Un divisor de tensión es una configuración de un circuito eléctrico que reparte la tensión de una fuente entre una o más impedancias conectadas en serie.
+
+Un divisor de corriente es una configuración presente en circuitos eléctricos que puede fragmentar la corriente eléctrica de una fuente entre diferentes resistencias. 
+# 6.BIBLIOGRAFIA 
+
+Floyd, T. (2007). Principios de circuitos eléctricos. Octava edición. Pearson Educación
