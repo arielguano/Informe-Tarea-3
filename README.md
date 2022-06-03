@@ -31,3 +31,11 @@ Tema: Cap 5 y 6 del libro Principios de circuitos Electricos Thomas L. Floyd Oct
 ◆ Localizar fallas en circuitos en serie y paralelo
 
 #MARCO TEÓRICO (RESUMEN)
+
+![](https://github.com/arielguano/Informe-Tarea-3/blob/main/Mapara%20unidad%205-6-1.png)
+
+![](https://github.com/arielguano/Informe-Tarea-3/blob/main/Mapara%20unidad%205-6-2.png)
+
+![](https://github.com/arielguano/Informe-Tarea-3/blob/main/Mapara%20unidad%205-6-3.png)
+
+![](https://github.com/arielguano/Informe-Tarea-3/blob/main/Mapara%20unidad%205-6-4.png)
