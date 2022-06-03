@@ -28,13 +28,16 @@ Tema: Cap 5 y 6 del libro Principios de circuitos Electricos Thomas L. Floyd Oct
 
 ◆ Determinar potencia en un circuito en serie y Paralelo
 
-◆ Localizar fallas en circuitos en serie y paralelo
 
 #MARCO TEÓRICO (RESUMEN)
+
+# CAPITULO 1
 
 ![](https://github.com/arielguano/Informe-Tarea-3/blob/main/Mapara%20unidad%205-6-1.png)
 
 ![](https://github.com/arielguano/Informe-Tarea-3/blob/main/Mapara%20unidad%205-6-2.png)
+
+# CAPITULO 2
 
 ![](https://github.com/arielguano/Informe-Tarea-3/blob/main/Mapara%20unidad%205-6-3.png)
 
