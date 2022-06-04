@@ -43,27 +43,57 @@ Tema: Cap 5 y 6 del libro Principios de circuitos Electricos Thomas L. Floyd Oct
 
 # 3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMA
 
-![](https://github.com/arielguano/Informe-Tarea-3/blob/main/BORRADOR%20%20CAP%205-01.png)
+![](https://github.com/arielguano/Informe-Tarea-3/blob/main/DEBER%20ELECTRONICA-01.png)
 
-![](https://github.com/arielguano/Informe-Tarea-3/blob/main/BORRADOR%20%20CAP%205-02.png)
+![](https://github.com/arielguano/Informe-Tarea-3/blob/main/DEBER%20ELECTRONICA-02.png)
 
-![](https://github.com/arielguano/Informe-Tarea-3/blob/main/BORRADOR%20%20CAP%205-03.png)
+![](https://github.com/arielguano/Informe-Tarea-3/blob/main/DEBER%20ELECTRONICA-03.png)
 
-![](https://github.com/arielguano/Informe-Tarea-3/blob/main/BORRADOR%20%20CAP%205-04.png)
+![](https://github.com/arielguano/Informe-Tarea-3/blob/main/DEBER%20ELECTRONICA-04.png)
 
-![](https://github.com/arielguano/Informe-Tarea-3/blob/main/BORRADOR%20%20CAP%205-05.png)
+![](https://github.com/arielguano/Informe-Tarea-3/blob/main/DEBER%20ELECTRONICA-05.png)
 
-![](https://github.com/arielguano/Informe-Tarea-3/blob/main/BORRADOR%20%20CAP%205-06.png)
+![](https://github.com/arielguano/Informe-Tarea-3/blob/main/DEBER%20ELECTRONICA-06.png)
 
-![](https://github.com/arielguano/Informe-Tarea-3/blob/main/BORRADOR%20%20CAP%205-07.png)
+![](https://github.com/arielguano/Informe-Tarea-3/blob/main/DEBER%20ELECTRONICA-07.png)
 
-![](https://github.com/arielguano/Informe-Tarea-3/blob/main/BORRADOR%20%20CAP%205-08.png)
+![](https://github.com/arielguano/Informe-Tarea-3/blob/main/DEBER%20ELECTRONICA-08.png)
 
-![](https://github.com/arielguano/Informe-Tarea-3/blob/main/BORRADOR%20%20CAP%205-09.png)
+![](https://github.com/arielguano/Informe-Tarea-3/blob/main/DEBER%20ELECTRONICA-09.png)
 
-![](https://github.com/arielguano/Informe-Tarea-3/blob/main/BORRADOR%20%20CAP%205-10.png)
+![](https://github.com/arielguano/Informe-Tarea-3/blob/main/DEBER%20ELECTRONICA-10.png)
 
+![](https://github.com/arielguano/Informe-Tarea-3/blob/main/DEBER%20ELECTRONICA-11.png)
 
+![](https://github.com/arielguano/Informe-Tarea-3/blob/main/DEBER%20ELECTRONICA-12.png)
+
+![](https://github.com/arielguano/Informe-Tarea-3/blob/main/DEBER%20ELECTRONICA-13.png)
+
+![](https://github.com/arielguano/Informe-Tarea-3/blob/main/DEBER%20ELECTRONICA-14.png)
+
+![](https://github.com/arielguano/Informe-Tarea-3/blob/main/DEBER%20ELECTRONICA-15.png)
+
+![](https://github.com/arielguano/Informe-Tarea-3/blob/main/DEBER%20ELECTRONICA-16.png)
+
+![](https://github.com/arielguano/Informe-Tarea-3/blob/main/DEBER%20ELECTRONICA-17.png)
+
+![](https://github.com/arielguano/Informe-Tarea-3/blob/main/DEBER%20ELECTRONICA-18.png)
+
+![](https://github.com/arielguano/Informe-Tarea-3/blob/main/DEBER%20ELECTRONICA-19.png)
+
+![](https://github.com/arielguano/Informe-Tarea-3/blob/main/DEBER%20ELECTRONICA-20.png)
+
+![](https://github.com/arielguano/Informe-Tarea-3/blob/main/DEBER%20ELECTRONICA-21.png)
+
+![](https://github.com/arielguano/Informe-Tarea-3/blob/main/DEBER%20ELECTRONICA-22.png)
+
+![](https://github.com/arielguano/Informe-Tarea-3/blob/main/DEBER%20ELECTRONICA-23.png)
+
+![](https://github.com/arielguano/Informe-Tarea-3/blob/main/DEBER%20ELECTRONICA-24.png)
+
+![](https://github.com/arielguano/Informe-Tarea-3/blob/main/DEBER%20ELECTRONICA-25.png)
+
+![](https://github.com/arielguano/Informe-Tarea-3/blob/main/DEBER%20ELECTRONICA-26.png)
 # 4.VIDEO
 
 # 5.CONCLUSIONES
