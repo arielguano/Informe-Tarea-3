@@ -96,6 +96,8 @@ Tema: Cap 5 y 6 del libro Principios de circuitos Electricos Thomas L. Floyd Oct
 ![](https://github.com/arielguano/Informe-Tarea-3/blob/main/DEBER%20ELECTRONICA-26.png)
 # 4.VIDEO
 
+https://www.youtube.com/watch?v=MyMij1i5UXE
+
 # 5.CONCLUSIONES
 Con lo aprendido en esta unidad se determino que:
 
